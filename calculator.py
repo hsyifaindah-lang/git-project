@@ -4,3 +4,4 @@ penjumlahan=a+b
 print(penjumlahan)
 
 print(a*b)
+
